@@ -2,7 +2,7 @@ import asyncio, json, logging, uuid, requests, html
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, ConversationHandler, filters
 
-TOKEN = "Token_Bot" #توكن بوتك 
+TOKEN = "8490205113:AAHKG7Bpg4iHTTVf3ahyZvHpbGRNVbp5xaE" #توكن بوتك 
 OWNER = 1928255357 # ايديك 
 DEV_USERNAME = "@j49_c"
 
